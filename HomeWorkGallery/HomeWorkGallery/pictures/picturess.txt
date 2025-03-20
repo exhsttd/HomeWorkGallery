@@ -1,0 +1,4 @@
+C:\Images\image1.jpg,Заголовок 1
+C:\Images\image2.jpg,Заголовок 2
+C:\Images\image3.jpg,Заголовок 3
+C:\Images\image4.jpg,Заголовок 4

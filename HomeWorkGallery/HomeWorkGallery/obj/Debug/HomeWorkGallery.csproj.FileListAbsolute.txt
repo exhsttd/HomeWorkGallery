@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\HomeWorkGallery\HomeWorkGallery\bin\Debug\HomeWorkGallery.exe.config
+C:\Users\admin\source\repos\HomeWorkGallery\HomeWorkGallery\bin\Debug\HomeWorkGallery.exe
+C:\Users\admin\source\repos\HomeWorkGallery\HomeWorkGallery\bin\Debug\HomeWorkGallery.pdb
+C:\Users\admin\source\repos\HomeWorkGallery\HomeWorkGallery\obj\Debug\HomeWorkGallery.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\HomeWorkGallery\HomeWorkGallery\obj\Debug\HomeWorkGallery.Form1.resources
+C:\Users\admin\source\repos\HomeWorkGallery\HomeWorkGallery\obj\Debug\HomeWorkGallery.Properties.Resources.resources
+C:\Users\admin\source\repos\HomeWorkGallery\HomeWorkGallery\obj\Debug\HomeWorkGallery.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\HomeWorkGallery\HomeWorkGallery\obj\Debug\HomeWorkGallery.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HomeWorkGallery\HomeWorkGallery\obj\Debug\HomeWorkGallery.exe
+C:\Users\admin\source\repos\HomeWorkGallery\HomeWorkGallery\obj\Debug\HomeWorkGallery.pdb
